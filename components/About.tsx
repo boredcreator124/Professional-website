@@ -58,7 +58,8 @@ export default function About() {
         <ScrollReveal delay={0.5}>
           <div className="mt-12 text-center">
             <a
-              href="#"
+              href="/Jacob_Baddoo_CV.pdf"
+              download="Jacob_Baddoo_CV.pdf"
                     className="group inline-flex items-center gap-2 rounded-xl border border-border px-6 py-3 text-sm font-medium text-text-primary transition-all hover:bg-accent/10"
               aria-label="Download CV"
             >

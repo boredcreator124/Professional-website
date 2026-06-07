@@ -19,7 +19,7 @@ export const projects: Project[] = [
     category: "Web Development",
     technologies: ["Next.js"],
     githubUrl: "https://github.com/boredcreator124/My-portfolio",
-    liveUrl: "my-portfolio-lv1hy4zih-jacob-baddoos-projects.vercel.app",
+    liveUrl: "https://my-portfolio-three-chi-12.vercel.app",
     imagePlaceholder: "SB",
     image: "/projects/project-1.png",
   },
